@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DKhadka319
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Php
+- 🌱 I’m currently learning AngularJS
 - 💞️ I’m looking to collaborate on Web Devlopment
 - 📫 How to reach me via dhirajkhadka319@gmail.com or www.dhirajkhadka.com
 
