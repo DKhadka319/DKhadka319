@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Dhiraj Khadka.
-- 💞️ I’m your tech friend.
 - 📫 How to reach me via dhirajkhadka319@gmail.com or www.dhirajkhadka.com
 
 <!---
